@@ -76,6 +76,11 @@ telephone:
   baseURL: "tel:"
   icon: "fa-phone"
 
+telegram:
+  name: "Telegram"
+  baseURL: "https://t.me/"
+  icon: "fa-telegram"
+
 rss:
   name: "RSS"
   baseURL: "{{ '/feed.xml' | prepend: site.baseurl }}"
