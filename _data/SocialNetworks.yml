@@ -79,7 +79,7 @@ telephone:
 telegram:
   name: "Telegram"
   baseURL: "https://t.me/"
-  icon: "fa-telegram"
+  icon: "fa-paper-plane"
 
 rss:
   name: "RSS"
